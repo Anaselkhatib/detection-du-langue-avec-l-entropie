@@ -12,7 +12,8 @@ Features
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/language-detection-entropy.git
+git clone https://github.com/Anaselkhatib/projet-theorie-info.git
+
 cd language-detection-entropy
 
 Install dependencies:
